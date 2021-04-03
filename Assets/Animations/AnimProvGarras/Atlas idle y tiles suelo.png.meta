@@ -1,0 +1,1520 @@
+fileFormatVersion: 2
+guid: 9ea240a43d78d8049800e6d396943b7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8802107920341537915
+    second: Atlas idle y tiles suelo_0
+  - first:
+      213: -5801530387461025728
+    second: Atlas idle y tiles suelo_1
+  - first:
+      213: 3086954601822493730
+    second: Atlas idle y tiles suelo_2
+  - first:
+      213: -5786437520347314768
+    second: Atlas idle y tiles suelo_3
+  - first:
+      213: 1715492839722575230
+    second: Atlas idle y tiles suelo_4
+  - first:
+      213: 4619207700392781869
+    second: Atlas idle y tiles suelo_5
+  - first:
+      213: 9196092427089516360
+    second: Atlas idle y tiles suelo_6
+  - first:
+      213: -2763859859636470573
+    second: Atlas idle y tiles suelo_7
+  - first:
+      213: -1783714795606164095
+    second: Atlas idle y tiles suelo_8
+  - first:
+      213: -3864851263379065620
+    second: Atlas idle y tiles suelo_9
+  - first:
+      213: -3095143578684544484
+    second: Atlas idle y tiles suelo_10
+  - first:
+      213: -7025092500808672404
+    second: Atlas idle y tiles suelo_11
+  - first:
+      213: -4086811807564315854
+    second: Atlas idle y tiles suelo_12
+  - first:
+      213: -1204663801780842383
+    second: Atlas idle y tiles suelo_13
+  - first:
+      213: 2600576600163273989
+    second: Atlas idle y tiles suelo_14
+  - first:
+      213: 8720816735103188262
+    second: Atlas idle y tiles suelo_15
+  - first:
+      213: 6786170277152644732
+    second: Atlas idle y tiles suelo_16
+  - first:
+      213: -8539016234268169045
+    second: Atlas idle y tiles suelo_17
+  - first:
+      213: -3085588542398924334
+    second: Atlas idle y tiles suelo_18
+  - first:
+      213: -285843815756727403
+    second: Atlas idle y tiles suelo_19
+  - first:
+      213: 8480213251740087896
+    second: Atlas idle y tiles suelo_20
+  - first:
+      213: -832393356775317314
+    second: Atlas idle y tiles suelo_21
+  - first:
+      213: 3296604421505221206
+    second: Atlas idle y tiles suelo_22
+  - first:
+      213: 2105420870345829065
+    second: Atlas idle y tiles suelo_23
+  - first:
+      213: 8810679318751121106
+    second: Atlas idle y tiles suelo_24
+  - first:
+      213: -4232706386004294992
+    second: Atlas idle y tiles suelo_25
+  - first:
+      213: 486959259543117146
+    second: Atlas idle y tiles suelo_26
+  - first:
+      213: -262737915904623619
+    second: Atlas idle y tiles suelo_27
+  - first:
+      213: 6112217732725043773
+    second: Atlas idle y tiles suelo_28
+  - first:
+      213: -1190053466883724193
+    second: Atlas idle y tiles suelo_29
+  - first:
+      213: 4429326490813658712
+    second: Atlas idle y tiles suelo_30
+  - first:
+      213: 3390532113264737655
+    second: Atlas idle y tiles suelo_31
+  - first:
+      213: -7445300023701164030
+    second: Atlas idle y tiles suelo_32
+  - first:
+      213: 6160549968982183132
+    second: Atlas idle y tiles suelo_33
+  - first:
+      213: 4087825673952197578
+    second: Atlas idle y tiles suelo_34
+  - first:
+      213: 6033716168359543447
+    second: Atlas idle y tiles suelo_35
+  - first:
+      213: 410657642876254865
+    second: Atlas idle y tiles suelo_36
+  - first:
+      213: -1216423113901757566
+    second: Atlas idle y tiles suelo_37
+  - first:
+      213: 9221866447348040064
+    second: Atlas idle y tiles suelo_38
+  - first:
+      213: 6561935834820030634
+    second: Atlas idle y tiles suelo_39
+  - first:
+      213: 7990028461039039924
+    second: Atlas idle y tiles suelo_40
+  - first:
+      213: -9066926892081233836
+    second: Atlas idle y tiles suelo_41
+  - first:
+      213: -7531977884420906905
+    second: Atlas idle y tiles suelo_42
+  - first:
+      213: -5652995643167024049
+    second: Atlas idle y tiles suelo_43
+  - first:
+      213: 1224647476115752488
+    second: Atlas idle y tiles suelo_44
+  - first:
+      213: 8895239547295336121
+    second: Atlas idle y tiles suelo_45
+  - first:
+      213: -9001426582362436466
+    second: Atlas idle y tiles suelo_46
+  - first:
+      213: -3948348494782980581
+    second: Atlas idle y tiles suelo_47
+  - first:
+      213: -4049040667652874104
+    second: Atlas idle y tiles suelo_48
+  - first:
+      213: -739065836179021282
+    second: Atlas idle y tiles suelo_49
+  - first:
+      213: -8382430064317586641
+    second: Atlas idle y tiles suelo_50
+  - first:
+      213: -7884024669735541781
+    second: Atlas idle y tiles suelo_51
+  - first:
+      213: -4178428949891403504
+    second: Atlas idle y tiles suelo_52
+  - first:
+      213: -583543731333966854
+    second: Atlas idle y tiles suelo_53
+  - first:
+      213: -5526232319374848560
+    second: Atlas idle y tiles suelo_54
+  - first:
+      213: -3475849999828679099
+    second: Atlas idle y tiles suelo_55
+  - first:
+      213: 7145903679742593361
+    second: Atlas idle y tiles suelo_56
+  - first:
+      213: -8643773435997621871
+    second: Atlas idle y tiles suelo_57
+  - first:
+      213: 8087323171734248385
+    second: Atlas idle y tiles suelo_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_0
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 971
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58be3656b71a8d580800000000000000
+      internalID: -8802107920341537915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 971
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04050c5b9d2dc7fa0800000000000000
+      internalID: -5801530387461025728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 971
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c136fdad017da20800000000000000
+      internalID: 3086954601822493730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 971
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5c4bcabb172bfa0800000000000000
+      internalID: -5786437520347314768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 971
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75e36e06a7aec710800000000000000
+      internalID: 1715492839722575230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 835
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2829ad0ee8ba1040800000000000000
+      internalID: 4619207700392781869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 835
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8479456e6551f9f70800000000000000
+      internalID: 9196092427089516360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 835
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc3869e91cc4a9d0800000000000000
+      internalID: -2763859859636470573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_8
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 835
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d394b08d8fe37e0800000000000000
+      internalID: -1783714795606164095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 835
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce43298b04a4d5ac0800000000000000
+      internalID: -3864851263379065620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_10
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 897
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a2daf5057db05d0800000000000000
+      internalID: -3095143578684544484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_11
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 898
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bd90f479bd18e90800000000000000
+      internalID: -7025092500808672404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_12
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 898
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c14a505ab847c0800000000000000
+      internalID: -4086811807564315854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_13
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 801
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170d415a7ac284fe0800000000000000
+      internalID: -1204663801780842383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_14
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 802
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dccefa3aa171420800000000000000
+      internalID: 2600576600163273989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_15
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 801
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d7b1f9d90960970800000000000000
+      internalID: 8720816735103188262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 695
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e5ff299e15d2e50800000000000000
+      internalID: 6786170277152644732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 695
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bace6210af15f7980800000000000000
+      internalID: -8539016234268169045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_18
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 695
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9fb4f9199cd25d0800000000000000
+      internalID: -3085588542398924334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 695
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bf394609a780cf0800000000000000
+      internalID: -285843815756727403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_20
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 695
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8563789b505cfa570800000000000000
+      internalID: 8480213251740087896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_21
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 704
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb02308f6aeb274f0800000000000000
+      internalID: -832393356775317314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_22
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 704
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6520dc45144efbd20800000000000000
+      internalID: 3296604421505221206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_23
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 555
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca28a76025f73d10800000000000000
+      internalID: 2105420870345829065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 555
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8a00d822d54a70800000000000000
+      internalID: 8810679318751121106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_25
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 555
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2cfafb7f76245c0800000000000000
+      internalID: -4232706386004294992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_26
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 555
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d9725ddd602c600800000000000000
+      internalID: 486959259543117146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_27
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 555
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb7a7de1419a5cf0800000000000000
+      internalID: -262737915904623619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_28
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 607
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d327becd4a5f2d450800000000000000
+      internalID: 6112217732725043773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_29
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 607
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c6ca25da41c7fe0800000000000000
+      internalID: -1190053466883724193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_30
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 607
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856fc2fc9f0287d30800000000000000
+      internalID: 4429326490813658712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 415
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df2b24ef69d0f20800000000000000
+      internalID: 3390532113264737655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 415
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200b519431bfca890800000000000000
+      internalID: -7445300023701164030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 415
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc0a3a8e8bae7550800000000000000
+      internalID: 6160549968982183132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_34
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 415
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb74afcacfdab830800000000000000
+      internalID: 4087825673952197578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_35
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 415
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7920a9a13e01cb350800000000000000
+      internalID: 6033716168359543447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_36
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 510
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a30ff43f2f2b500800000000000000
+      internalID: 410657642876254865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_37
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 510
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28baf4f6f956e1fe0800000000000000
+      internalID: -1216423113901757566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_38
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 510
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810640aca6aaff70800000000000000
+      internalID: 9221866447348040064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_39
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 413
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0ba5900eda01b50800000000000000
+      internalID: 6561935834820030634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_40
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 413
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b53e756d8842ee60800000000000000
+      internalID: 7990028461039039924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_41
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 283
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450cf01c70ecb2280800000000000000
+      internalID: -9066926892081233836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_42
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 283
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7606efe250a097790800000000000000
+      internalID: -7531977884420906905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_43
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 283
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cd234d9668c81b0800000000000000
+      internalID: -5652995643167024049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_44
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 283
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82645fc1462def010800000000000000
+      internalID: 1224647476115752488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_45
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 283
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b68b804d3d327b70800000000000000
+      internalID: 8895239547295336121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_46
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 316
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c47860732841380800000000000000
+      internalID: -9001426582362436466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_47
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 316
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e130796f5a439c0800000000000000
+      internalID: -3948348494782980581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_48
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 316
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880a07b27faeec7c0800000000000000
+      internalID: -4049040667652874104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_49
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 147
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e122ce8a98f4eb5f0800000000000000
+      internalID: -739065836179021282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_50
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 147
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23abcdb440abab80800000000000000
+      internalID: -8382430064317586641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_51
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 147
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be32fff8551569290800000000000000
+      internalID: -7884024669735541781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_52
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 147
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b382220d3306c0800000000000000
+      internalID: -4178428949891403504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_53
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 147
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3deee6116d6e7f0800000000000000
+      internalID: -583543731333966854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_54
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 15
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd01691cf0ee43b0800000000000000
+      internalID: -5526232319374848560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_55
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 15
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5468bab47dc43cfc0800000000000000
+      internalID: -3475849999828679099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_56
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 15
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159c63e39895b2360800000000000000
+      internalID: 7145903679742593361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_57
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 15
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191776c4bd52b0880800000000000000
+      internalID: -8643773435997621871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas idle y tiles suelo_58
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 15
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb51038391fb3070800000000000000
+      internalID: 8087323171734248385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

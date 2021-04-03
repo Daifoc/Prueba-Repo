@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: c8884c3817d7f5248bf84202642eff87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8507135788184082984
+    second: Atlas Idle_0
+  - first:
+      213: -4474819285088073322
+    second: Atlas Idle_1
+  - first:
+      213: 7782091895446047040
+    second: Atlas Idle_2
+  - first:
+      213: 2665059600939193989
+    second: Atlas Idle_3
+  - first:
+      213: -5693554815498030844
+    second: Atlas Idle_4
+  - first:
+      213: -1369708276614624810
+    second: Atlas Idle_5
+  - first:
+      213: -1609434683778868241
+    second: Atlas Idle_6
+  - first:
+      213: 2066356955857327425
+    second: Atlas Idle_7
+  - first:
+      213: -1361184974001748375
+    second: Atlas Idle_8
+  - first:
+      213: -9008124246973134188
+    second: Atlas Idle_9
+  - first:
+      213: 1010242063806156672
+    second: Atlas Idle_10
+  - first:
+      213: -275015692564136443
+    second: Atlas Idle_11
+  - first:
+      213: 4631850627979383933
+    second: Atlas Idle_12
+  - first:
+      213: 3328866296560715035
+    second: Atlas Idle_13
+  - first:
+      213: 1735175854092602849
+    second: Atlas Idle_14
+  - first:
+      213: -5698484353835724229
+    second: Atlas Idle_15
+  - first:
+      213: 6202628359761265188
+    second: Atlas Idle_16
+  - first:
+      213: 365581007245318682
+    second: Atlas Idle_17
+  - first:
+      213: 5377980023953087376
+    second: Atlas Idle_18
+  - first:
+      213: -2258078853095828081
+    second: Atlas Idle_19
+  - first:
+      213: -565478903529162843
+    second: Atlas Idle_20
+  - first:
+      213: -4662970553144910871
+    second: Atlas Idle_21
+  - first:
+      213: 500607316788210681
+    second: Atlas Idle_22
+  - first:
+      213: -7669559403363523246
+    second: Atlas Idle_23
+  - first:
+      213: -405921355577676075
+    second: Atlas Idle_24
+  - first:
+      213: -4730873313177515228
+    second: Atlas Idle_25
+  - first:
+      213: 5119934162323805347
+    second: Atlas Idle_26
+  - first:
+      213: -2715432255858263174
+    second: Atlas Idle_27
+  - first:
+      213: -7302818397504014236
+    second: Atlas Idle_28
+  - first:
+      213: -1400999609177594228
+    second: Atlas Idle_29
+  - first:
+      213: 2714931709092134895
+    second: Atlas Idle_30
+  - first:
+      213: -6932845810816235295
+    second: Atlas Idle_31
+  - first:
+      213: -5314442203965267836
+    second: Atlas Idle_32
+  - first:
+      213: -2457834653501388860
+    second: Atlas Idle_33
+  - first:
+      213: 8137076989426807574
+    second: Atlas Idle_34
+  - first:
+      213: -8474813122749601474
+    second: Atlas Idle_35
+  - first:
+      213: -6522046557020146543
+    second: Atlas Idle_36
+  - first:
+      213: 957862778521336674
+    second: Atlas Idle_37
+  - first:
+      213: 1687395583807604124
+    second: Atlas Idle_38
+  - first:
+      213: -809143308207069026
+    second: Atlas Idle_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas Idle_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 962
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a99b63dea6f0670800000000000000
+      internalID: 8507135788184082984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 962
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699024e919f36e1c0800000000000000
+      internalID: -4474819285088073322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 962
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049028df85b8ffb60800000000000000
+      internalID: 7782091895446047040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 962
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586993346913cf420800000000000000
+      internalID: 2665059600939193989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_4
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 962
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4017601af0e6cf0b0800000000000000
+      internalID: -5693554815498030844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 842
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d909765491ddfce0800000000000000
+      internalID: -1369708276614624810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 842
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febda28aea32aa9e0800000000000000
+      internalID: -1609434683778868241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 842
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145980d04bc2dac10800000000000000
+      internalID: 2066356955857327425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 842
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966c60f5a791c1de0800000000000000
+      internalID: -1361184974001748375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_9
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 842
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a459679b6bcf280800000000000000
+      internalID: -9008124246973134188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 684
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fc256fdc9150e00800000000000000
+      internalID: 1010242063806156672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 684
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e7e094fa2fe2cf0800000000000000
+      internalID: -275015692564136443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_12
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 684
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7491650b93a74040800000000000000
+      internalID: 4631850627979383933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_13
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 684
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1585477242823e20800000000000000
+      internalID: 3328866296560715035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_14
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 684
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed4606fe35941810800000000000000
+      internalID: 1735175854092602849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 566
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32108b0caaeae0b0800000000000000
+      internalID: -5698484353835724229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_16
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 566
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422855951a9241650800000000000000
+      internalID: 6202628359761265188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_17
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 566
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a9c793dfdc21500800000000000000
+      internalID: 365581007245318682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_18
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 566
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bded8865c62aa40800000000000000
+      internalID: 5377980023953087376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_19
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 566
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85d6663f31b9a0e0800000000000000
+      internalID: -2258078853095828081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_20
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 405
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7ba2beee30728f0800000000000000
+      internalID: -565478903529162843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 405
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebd0b5ccfcc94fb0800000000000000
+      internalID: -4662970553144910871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 405
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb6f19c3b382f600800000000000000
+      internalID: 500607316788210681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 405
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255a2c29b50409590800000000000000
+      internalID: -7669559403363523246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_24
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 405
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2c028da0ed5af0800000000000000
+      internalID: -405921355577676075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 288
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bcda279cf885eb0800000000000000
+      internalID: -4730873313177515228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 288
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a492ba7ef8ad0740800000000000000
+      internalID: 5119934162323805347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 288
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b3ee110c8d05ad0800000000000000
+      internalID: -2715432255858263174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_28
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 288
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468f5950c5d27aa90800000000000000
+      internalID: -7302818397504014236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 288
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86228c3746ae8ce0800000000000000
+      internalID: -1400999609177594228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 135
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef71ed41006da520800000000000000
+      internalID: 2714931709092134895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 135
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e84eb3877599cf90800000000000000
+      internalID: -6932845810816235295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 135
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4806e4df8fe4f36b0800000000000000
+      internalID: -5314442203965267836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_33
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 135
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c78761a76404edd0800000000000000
+      internalID: -2457834653501388860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 135
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6133ac8e864bce070800000000000000
+      internalID: 8137076989426807574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 19
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39e0b8cd5a636a80800000000000000
+      internalID: -8474813122749601474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 19
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194314036390d75a0800000000000000
+      internalID: -6522046557020146543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 19
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b35514f130b4d00800000000000000
+      internalID: 957862778521336674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 19
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c954a60e755da6710800000000000000
+      internalID: 1687395583807604124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas Idle_39
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 19
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98eeedb27855c4f0800000000000000
+      internalID: -809143308207069026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

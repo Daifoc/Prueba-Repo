@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 47e3edce50632d340997b3b962885835
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3363102593652451604
+    second: Atlas MH Garra_0
+  - first:
+      213: 6563244998753937264
+    second: Atlas MH Garra_1
+  - first:
+      213: 2375372973099474552
+    second: Atlas MH Garra_2
+  - first:
+      213: -9194066339314165136
+    second: Atlas MH Garra_3
+  - first:
+      213: -4205131964764217567
+    second: Atlas MH Garra_4
+  - first:
+      213: -3920656243734795832
+    second: Atlas MH Garra_6
+  - first:
+      213: -8913995485465347048
+    second: Atlas MH Garra_7
+  - first:
+      213: -8441873540317873385
+    second: Atlas MH Garra_8
+  - first:
+      213: 1994180724342704054
+    second: Atlas MH Garra_9
+  - first:
+      213: -7901415843415265950
+    second: Atlas MH Garra_10
+  - first:
+      213: -281451817355550599
+    second: Atlas MH Garra_11
+  - first:
+      213: 4589272070238670939
+    second: Atlas MH Garra_13
+  - first:
+      213: 1112330746217123088
+    second: Atlas MH Garra_14
+  - first:
+      213: 5480403459768495705
+    second: Atlas MH Garra_15
+  - first:
+      213: -1717076411439764146
+    second: Atlas MH Garra_16
+  - first:
+      213: 7936476539801566636
+    second: Atlas MH Garra_18
+  - first:
+      213: -1821790910388994783
+    second: Atlas MH Garra_19
+  - first:
+      213: 4672050826386489055
+    second: Atlas MH Garra_20
+  - first:
+      213: -733424084467875292
+    second: Atlas MH Garra_21
+  - first:
+      213: 8319286500752628072
+    second: Atlas MH Garra_22
+  - first:
+      213: -693049635166487537
+    second: Atlas MH Garra_23
+  - first:
+      213: 580746750460805155
+    second: Atlas MH Garra_24
+  - first:
+      213: 2633149029536758409
+    second: Atlas MH Garra_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas MH Garra_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 432
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce69622720cd351d0800000000000000
+      internalID: -3363102593652451604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07766948d84551b50800000000000000
+      internalID: 6563244998753937264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e58ae322507f020800000000000000
+      internalID: 2375372973099474552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 394
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a9dcb606d186080800000000000000
+      internalID: -9194066339314165136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 104
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f969ef1ce54a5c0800000000000000
+      internalID: -4205131964764217567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c925c93be70799c0800000000000000
+      internalID: -3920656243734795832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf66795502b4480800000000000000
+      internalID: -8913995485465347048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b7596fdb078da80800000000000000
+      internalID: -8441873540317873385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 113
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7c06c9dc0ccab10800000000000000
+      internalID: 1994180724342704054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 145
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26de6966728885290800000000000000
+      internalID: -7901415843415265950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_11
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 288
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97062253015181cf0800000000000000
+      internalID: -281451817355550599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 76
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50923402ae50bf30800000000000000
+      internalID: 4589272070238670939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 76
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d44099beacf6f00800000000000000
+      internalID: 1112330746217123088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 144
+        width: 94
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea25509ed4e0c40800000000000000
+      internalID: 5480403459768495705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d2eebe918bb28e0800000000000000
+      internalID: -1717076411439764146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_18
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadf71b1d57042e60800000000000000
+      internalID: 7936476539801566636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_19
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 76
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7a3bb1d2b7b6e0800000000000000
+      internalID: -1821790910388994783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde3657197576d040800000000000000
+      internalID: 4672050826386489055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_21
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42283975eaa52d5f0800000000000000
+      internalID: -733424084467875292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_22
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8691016befa047370800000000000000
+      internalID: 8319286500752628072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 84
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cff2c570bc166f0800000000000000
+      internalID: -693049635166487537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320cda5b71a3f0800800000000000000
+      internalID: 580746750460805155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas MH Garra_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af3326713da8420800000000000000
+      internalID: 2633149029536758409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
